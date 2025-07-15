@@ -11,7 +11,7 @@ A modern blog summarization tool built with **Next.js 15**, **TypeScript**, and 
   - **MongoDB** for full blog text
 - 🎨 Pastel-themed UI built with shadcn/ui + Tailwind CSS
 - ⚙️ Responsive, fast, and mobile-friendly
-- 🛡️ Graceful error handling for missing or misconfigured environments
+- 🛡️ Graceful error handling for missing or misconfigured environments.
 
 ---
 
